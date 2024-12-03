@@ -33,3 +33,6 @@ The project uses interactive visualizations with dropdown menus for insights and
 3. **Compare States**: Compare state-wise education enrollment and attainment to identify high and low-performing regions.  
 4. **Provide Recommendations**: Develop actionable insights and strategies to address educational inequities and improve access and quality.  
 5. **Support SDGs**: Contribute to achieving SDG 4, SDG 5, and SDG 10 through data-driven solutions and analysis.  
+
+# Script File Name:  
+`Caps For All.ipynb'
