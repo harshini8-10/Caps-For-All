@@ -34,14 +34,17 @@ The project uses interactive visualizations with dropdown menus for insights and
 4. **Provide Recommendations**: Develop actionable insights and strategies to address educational inequities and improve access and quality.  
 5. **Support SDGs**: Contribute to achieving SDG 4, SDG 5, and SDG 10 through data-driven solutions and analysis.  
 
-# Title of the Project: Caps For All  
-
 # Key Files:  
 - `QualityEducation.csv`: Core dataset used for analysis.  
 - `Primary_Secondary_Education.png`: Visualization support file.  
 - `Dataset_Description.pdf`: Metadata for understanding dataset columns and variables.  
 - `Caps For All.ipynb`: Jupyter Notebook with code and analysis.  
 - Generated interactive HTML files: Explore trends and disparities through visualizations.
+
+# Technologies Used:  
+- **Programming Language**: Python  
+- **Environment**: Jupyter Notebook  
+- **Visualization Tools**: Plotly for creating interactive HTML visualizations.
 
 # Pre-requisites:
 **Library Installation**:  
