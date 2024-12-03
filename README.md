@@ -44,7 +44,6 @@ The project uses interactive visualizations with dropdown menus for insights and
 - Generated interactive HTML files: Explore trends and disparities through visualizations.
 
 # Pre-requisites:
-
 **Library Installation**:  
   Install the following libraries before running the script:  
   ```bash
