@@ -47,8 +47,9 @@ The project uses interactive visualizations with dropdown menus for insights and
 **Library Installation**:  
 Install the following libraries before running the script:  
 
-pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
-pip install pandas numpy plotly ipython
+!pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
+
+!pip install pandas numpy plotly ipython
 
 
 # Script File:  
