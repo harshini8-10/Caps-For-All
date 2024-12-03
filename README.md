@@ -36,3 +36,18 @@ The project uses interactive visualizations with dropdown menus for insights and
 
 # Script File Name:  
 `Caps For All.ipynb'
+
+# Title of the Project: Caps For All  
+
+# Pre-requisites:  
+1. **Dataset File**: `QualityEducation.csv`  
+2. **Image**: `Primary_Secondary_Education.png`  
+   - **Purpose**: Visual reference for the U.S. education system.  
+3. **PDF**: `Dataset_Description`  
+   - Metadata and detailed description of the dataset.  
+4. **Library Installation**:  
+   Install the following libraries before running the script:  (mentioned in the script file at the start)
+   ```bash
+   pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
+   pip install pandas numpy plotly ipython
+
