@@ -1,2 +1,5 @@
-# Caps-For-All
-A data-driven project analyzing educational disparities in the U.S. Developed for Datathon 1.0 and awarded Winner, it supports Sustainability Development Goals - SDG 4: Quality Education, SDG 5: Gender Equality, and SDG 10: Reduced Inequalities with interactive insights and actionable recommendations.
+# Title of the Project: Caps For All  
+
+# Datathon Achievement  
+Winner of Datathon 1.0  
+For more details, visit the [Datathon 1.0 Project Gallery](https://csueastbay-datathon-2024.devpost.com/project-gallery), which highlights the winning projects.  
