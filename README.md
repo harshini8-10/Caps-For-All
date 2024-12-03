@@ -46,6 +46,18 @@ The project uses interactive visualizations with dropdown menus for insights and
 - **Environment**: Jupyter Notebook  
 - **Visualization Tools**: Plotly for creating interactive HTML visualizations.
 
+```markdown
+# Dataset:  
+**Name**: `QualityEducation.csv`  
+**Description**: Educational Accessibility, Quality, and Outcomes in the U.S. (2015-2019)  
+**Size**: 260 rows × 77 columns  
+**Features**:  
+- **GeoName**: List of U.S. states  
+- **Age Group Levels**: Proportion of enrollment by age  
+- **Race-Based Educational Attainment**: Levels of education achieved across racial groups  
+- **Gender Disparities**: Proportion of attainment for males and females  
+- **Disability Status**: Education outcomes for individuals with and without disabilities  
+
 # Pre-requisites:
 **Library Installation**:  
 Install the following libraries before running the script:  
@@ -72,6 +84,30 @@ Install the following libraries before running the script:
    - The project generates interactive HTML visualizations with dropdown menus for comparing trends across educational dimensions like age, race, gender, and disability.  
    - Use these outputs to gain insights into state-wise and demographic-specific disparities in education.  
 
+# Methodology:  
+## Data Preparation:  
+1. Load the dataset and check for duplicates.  
+2. Handle missing data using imputation techniques.  
+3. Clean and preprocess the data for analysis.  
+
+## Exploratory Data Analysis (EDA):  
+1. Analyze trends in enrollment across age groups over the years.  
+2. Assess disparities in educational attainment based on race, gender, and disability.  
+3. Compare state-wise performance for primary and secondary education.  
+
+## Interactive Visualizations:  
+1. Create dropdown-enabled HTML visualizations for easy navigation and comparison of insights.  
+2. Include charts and maps to illustrate key findings.  
+
+## Insights & Recommendations:  
+1. Identify areas of concern and provide actionable strategies to improve education access and quality.  
+2. Develop state-specific recommendations to replicate successful practices in underperforming areas.  
+
+# How to Use:  
+1. **Clone the Repository**:  
+   Clone this GitHub repository to your local machine.  
+   ```bash
+   git clone https://github.com/yourusername/CapsForAll.git
 
 
 
