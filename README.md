@@ -43,12 +43,12 @@ The project uses interactive visualizations with dropdown menus for insights and
 - `Caps For All.ipynb`: Jupyter Notebook with code and analysis.  
 - Generated interactive HTML files: Explore trends and disparities through visualizations.
 
-# Pre-requisites:
-**Library Installation**:  
- Install the following libraries before running the script:  
-```bash
-pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
-pip install pandas numpy plotly ipython
+ # Pre-requisites:
+ **Library Installation**:  
+ - Install the following libraries before running the script:  
+ ```bash
+ pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
+ pip install pandas numpy plotly ipython
 
 
 # Script File:  
