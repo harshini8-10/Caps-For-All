@@ -1,4 +1,5 @@
-# Title of the Project: Caps For All  <**Every Head Deserves the Cap!**>
+# Title of the Project: Caps For All  
+# **Every Head Deserves the Cap!**
 
 
 ## Datathon Achievement  
