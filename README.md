@@ -34,20 +34,39 @@ The project uses interactive visualizations with dropdown menus for insights and
 4. **Provide Recommendations**: Develop actionable insights and strategies to address educational inequities and improve access and quality.  
 5. **Support SDGs**: Contribute to achieving SDG 4, SDG 5, and SDG 10 through data-driven solutions and analysis.  
 
-# Script File Name:  
-`Caps For All.ipynb'
-
 # Title of the Project: Caps For All  
 
+# Key Files:  
+- `QualityEducation.csv`: Core dataset used for analysis.  
+- `Primary_Secondary_Education.png`: Visualization support file.  
+- `Dataset_Description.pdf`: Metadata for understanding dataset columns and variables.  
+- `Caps For All.ipynb`: Jupyter Notebook with code and analysis.  
+- Generated interactive HTML files: Explore trends and disparities through visualizations.
+
 # Pre-requisites:  
-1. **Dataset File**: `QualityEducation.csv`  
-2. **Image**: `Primary_Secondary_Education.png`  
-   - **Purpose**: Visual reference for the U.S. education system.  
-3. **PDF**: `Dataset_Description`  
-   - Metadata and detailed description of the dataset.  
-4. **Library Installation**:  
-   Install the following libraries before running the script:  (mentioned in the script file at the start)
+**Library Installation**:  (Mentioned at the First Cell of Script File)
+   Install the following libraries before running the script:  
    ```bash
    pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
    pip install pandas numpy plotly ipython
+
+# Script File:  
+`Caps For All.ipynb`  
+- The Jupyter Notebook script contains all the steps for data preparation, analysis, and visualization.  
+
+# How to Use:  
+1. **Prepare the Environment**:  
+   - Ensure the dataset (`QualityEducation.csv`), image (`Primary_Secondary_Education.png`), and metadata file (`Dataset_Description.pdf`) are in the same directory as the script.  
+   - Install the required libraries using the commands provided above.  
+
+2. **Run the Script**:  
+   - Open the `Caps For All.ipynb` file in Jupyter Notebook.  
+   - Execute all cells sequentially to preprocess the data, analyze trends, and generate visualizations.  
+
+3. **Explore Outputs**:  
+   - The project generates interactive HTML visualizations with dropdown menus for comparing trends across educational dimensions like age, race, gender, and disability.  
+   - Use these outputs to gain insights into state-wise and demographic-specific disparities in education.  
+
+
+
 
