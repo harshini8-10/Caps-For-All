@@ -48,11 +48,10 @@ The project uses interactive visualizations with dropdown menus for insights and
 Install the following libraries before running the script:  
 ```bash
 !pip install pandas numpy scikit-learn plotly matplotlib seaborn category-encoders dmba
-
 !pip install pandas numpy plotly ipython
+```bash
 
-
-# Script File:  
+   # Script File:  
 `Caps For All.ipynb`  
 - The Jupyter Notebook script contains all the steps for data preparation, analysis, and visualization.  
 
