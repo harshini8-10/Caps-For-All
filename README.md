@@ -107,5 +107,5 @@ Install the following libraries before running the script:
 **Clone the Repository**:  
    Clone this GitHub repository to your local machine.  
    ```bash
-   git clone https://github.com/harshini8-10/Caps-For-All.git
+   git clone [https://github.com/harshini8-10/Caps-For-All.git](https://github.com/harshini8-10/Caps-For-All)
    
