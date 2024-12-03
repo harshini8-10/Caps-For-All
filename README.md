@@ -24,3 +24,12 @@ Reduce inequality within and among countries, focusing on marginalized and disad
 - Study disparities in educational attainment by race, gender, and disability status.  
 - Identify high-performing states to replicate best practices in underperforming regions.  
 - Develop recommendations to close the gap in education access and attainment.  
+
+The project uses interactive visualizations with dropdown menus for insights and comparisons across educational factors such as age, race, gender, and disability.  
+
+# Goals:  
+1. **Analyze Enrollment Trends**: Understand the enrollment proportions across various age groups and identify areas requiring improvement.  
+2. **Assess Disparities**: Investigate disparities in educational attainment across race, gender, and disability status.  
+3. **Compare States**: Compare state-wise education enrollment and attainment to identify high and low-performing regions.  
+4. **Provide Recommendations**: Develop actionable insights and strategies to address educational inequities and improve access and quality.  
+5. **Support SDGs**: Contribute to achieving SDG 4, SDG 5, and SDG 10 through data-driven solutions and analysis.  
