@@ -46,7 +46,7 @@ The project uses interactive visualizations with dropdown menus for insights and
 - **Environment**: Jupyter Notebook  
 - **Visualization Tools**: Plotly for creating interactive HTML visualizations.
 
-```markdown
+
 # Dataset:  
 **Name**: `QualityEducation.csv`  
 **Description**: Educational Accessibility, Quality, and Outcomes in the U.S. (2015-2019)  
